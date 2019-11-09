@@ -1,0 +1,27 @@
+{
+  "name": "webpack-practice-with-git",
+  "version": "1.0.0",
+  "description": "practice from https://webpack.js.org/ guides",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remek1990/webpack-practice-with-git.git"
+  },
+  "author": "Vladimir Remenyuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Remek1990/webpack-practice-with-git/issues"
+  },
+  "homepage": "https://github.com/Remek1990/webpack-practice-with-git#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
